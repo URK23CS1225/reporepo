@@ -1,0 +1,8 @@
+git config --global user.name "URK23CS1225"
+git config --global user.email "lizaniadew@karunya.edu.in"
+git clone https://github.com/URK223CS1225/lab.git
+cd lab
+git add
+git commit -m"file added"
+git push origin main
+git pull
