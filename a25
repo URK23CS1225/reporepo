@@ -1,0 +1,6 @@
+issues
+git clone https://github.com/URK23CS1225/githubemc.git
+cd githubemc
+git add .
+git commit -m "fix # 2"
+git push origin main
