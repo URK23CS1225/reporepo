@@ -1,0 +1,13 @@
+Exp 3
+git clone 
+git add
+git commit -m
+git push origin main
+git checkout
+git merge main
+git add
+git commit -m
+git push origin lizan
+git checkout main
+git merge lizan
+git push origin main
